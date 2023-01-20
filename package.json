@@ -11,7 +11,7 @@
     "firebase": "^9.6.6",
     "geolib": "^3.0.4",
     "react": "17.0.2",
-    "react-native": "0.67.2",
+    "react-native": "0.71.1",
     "react-native-app-intro-slider": "^4.0.0",
     "react-native-elements": "^3.4.2",
     "react-native-fbsdk": "^3.0.0",

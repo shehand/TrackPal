@@ -10,7 +10,7 @@
     "email-validator": "^2.0.4",
     "firebase": "^9.6.6",
     "geolib": "^3.0.4",
-    "react": "17.0.2",
+    "react": "19.1.1",
     "react-native": "0.67.2",
     "react-native-app-intro-slider": "^4.0.0",
     "react-native-elements": "^3.4.2",
@@ -33,7 +33,7 @@
     "metro-react-native-babel-preset": "0.68.0",
     "babel-jest": "27.5.1",
     "jest": "24.9.0",
-    "react-test-renderer": "16.9.0"
+    "react-test-renderer": "19.1.1"
   },
   "jest": {
     "preset": "react-native"
